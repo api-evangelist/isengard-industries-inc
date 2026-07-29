@@ -1,0 +1,7 @@
+Contact: mailto:hello@isengardindustries.com
+Expires: 2027-07-01T00:00:00.000Z
+Preferred-Languages: en, uk, pl
+Canonical: https://isengardindustries.com/.well-known/security.txt
+Policy: https://isengardindustries.com/colophon.html
+# Isengard Industries — report vulnerabilities responsibly.
+# We build systems people stake their lives on. We take reports seriously.
